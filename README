@@ -1,0 +1,5 @@
+npm install - инициализация
+
+npm run dev - запуск
+
+node server.js - запуск сервера
